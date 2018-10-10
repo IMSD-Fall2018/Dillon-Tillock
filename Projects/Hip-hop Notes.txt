@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+Notes
+--------------------------------------------------------------------------------
+Missing bus mappings
+Bus "Out 1-2" could not be mapped to output "A 1-2"
+Bus "A 3-4" could not be mapped to output "A 3-4"
+Bus "A 7-8" could not be mapped to output "A 7-8"
+Bus "A 9-10" could not be mapped to output "A 9-10"
+Bus "A 11-12" could not be mapped to output "A 11-12"
+Bus "A 13-14" could not be mapped to output "A 13-14"
+Bus "A 15-16" could not be mapped to output "A 15-16"
+Bus "A 5-6 (1)" could not be mapped to output "A 5-6"
+
+Missing Inputs
+The input "A 1-2" on track "Drums" is not available in the current I/O setup.
+The input "A 1" on track "Bass" is not available in the current I/O setup.
+The input "A 1-2" on track "Brass Hit" is not available in the current I/O setup.
+The input "A 1" on track "Lead" is not available in the current I/O setup.
+The input "A 1" on track "Audio 1" is not available in the current I/O setup.
+The input "A 1" on track "Audio 2" is not available in the current I/O setup.
+The input "A 1-2" on track "Audio 3" is not available in the current I/O setup.
+The input "A 1-2" on track "Audio 4" is not available in the current I/O setup.
+The input "A 1" on track "Click" is not available in the current I/O setup.
+
+This session comes from an earlier version of Pro Tools. The following bus has been remapped to your Monitor Path to ensure audio output:
+     "Out 1-2" has been remapped to "Built-in Output 1-2"
+
+
